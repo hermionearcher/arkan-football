@@ -24,7 +24,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-image: url('path/to/your/logo.png');
+  background-image: url('src/assets/react.svg');
   background-size: cover;
   background-position: center;
   /* Add any other styling you need */
