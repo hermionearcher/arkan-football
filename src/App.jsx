@@ -8,7 +8,7 @@ function App() {
   return (
     <div className='App__Wrapper'>
   
-      <img src={reactLogo} alt="Arkan Football Logo" style="max-width: 250px; width: 50%;"/>
+      // <img src={reactLogo} alt="Arkan Football Logo" style="max-width: 250px; width: 50%;"/>
  
         <div className="card">
   
