@@ -7,8 +7,9 @@ function App() {
   return (
     <div className='App__Wrapper'>
       <div className="card">
-      <h1>Arkan Football</h1>
-      
+  
+      <img src="src/assets/react.svg" alt="Arkan Football Logo" style="max-width: 250px; width: 50%;">
+
         <p>
           We're renovating our webiste, back soon!
         </p>
