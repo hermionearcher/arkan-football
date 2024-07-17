@@ -5,23 +5,22 @@ import './App.css';
 
 function App() {
   return (
-    <>
+    <div className='App__Wrapper'>
       <h1>Arkan Football</h1>
       <div className="card">
         <p>
-          We're renovating our webiste, check back here soon. In the mean time
-          hers our contact info:
+          We're renovating our webiste, back soon!
         </p>
-        <p className="read-the-docs">
+        <p>Get in touch:{" "}
           <a href="mailto:akeem@arkanfootball.co.uk?subject=Hey%2C%20came%20from%20your%20website%20%3A)">
             akeem@arkanfootball.co.uk
-          </a>{' '}
+          </a>
         </p>
         {/* <button onClick={}>
           count is
         </button> */}
       </div>
-    </>
+    </div>
   );
 }
 
