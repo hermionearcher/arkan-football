@@ -31,10 +31,9 @@ body {
 }
 
 .App__Wrapper p {
-  /* Style your text here */
+  text-transform: uppercase; 
+  font-family: 'Courier New', monospace; 
 }
-
-
 
 .logo {
   height: 6em;
