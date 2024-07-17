@@ -6,8 +6,9 @@ import './App.css';
 function App() {
   return (
     <div className='App__Wrapper'>
-      <h1>Arkan Football</h1>
       <div className="card">
+      <h1>Arkan Football</h1>
+      
         <p>
           We're renovating our webiste, back soon!
         </p>
@@ -16,9 +17,6 @@ function App() {
             akeem@arkanfootball.co.uk
           </a>
         </p>
-        {/* <button onClick={}>
-          count is
-        </button> */}
       </div>
     </div>
   );
