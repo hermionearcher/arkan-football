@@ -7,10 +7,11 @@ import AppLogo from './assets/react.svg';
 function App() {
   return (
     <div className='App__Wrapper'>
-      <div className="card">
   
       <img src={reactLogo} alt="Arkan Football Logo" style="max-width: 250px; width: 50%;"/>
-
+ 
+        <div className="card">
+  
         <p>
           We're renovating our webiste, back soon!
         </p>
